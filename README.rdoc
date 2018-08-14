@@ -1,28 +1,49 @@
-== README
+Seat Yourself
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Seat Yourself is a clone  of Opentable app.
 
-Things you may want to cover:
+Seat Yourself uses Ruby on Rails and Sql for the back-end
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is built full o rails with minimum front end. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
+MVP (Minimal Viable Product)
+
+As a visitor I am allowed to sign up and login - DONE
+
+As a visitor I am allowed to see all restaurants - DONE
+
+As a visitor I can visit each restaurant page and show details about that restaurant - DONE
+
+As a user I can CRUD restaurants that I own - DONE
+
+As a user I can book timing restaurants - DONE
+
+
+Want to have
+
+As a visitor I am able to search for restaurants by name, location, cuisine type - DONE
+
+As a visitor I can see restaurant information - DONE
+
+As a user I can write a review for a review - DONE
+
+
+
+
+Nice to have
+
+
+As a user I can see restaurants I reserved - DONE
+
+As a user I can't  reserve restaurants off hours - DONE
+
+As a user I can reserve restaurants that are full capacity - DONE
+
+All backend validations including user login signup and reservation - DON
+
+
+
+
