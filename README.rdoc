@@ -1,10 +1,10 @@
-Seat Yourself
+#Seat Yourself 
 
-Seat Yourself is a clone  of Opentable app.
+###Seat Yourself is a clone  of Opentable app.
 
-Seat Yourself uses Ruby on Rails and Sql for the back-end
+###Seat Yourself uses Ruby on Rails and Sql for the back-end
 
-This is built full o rails with minimum front end. 
+###This is built full o rails with minimum front end. 
 
 
 
